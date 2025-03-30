@@ -8,6 +8,10 @@
 	"url": "https://foundryvtt.com/packages/doctor-who",
 	"authors": [
 		{
+			"name": "addihorn"
+		}
+		,
+		{
 			"name": "Nick van Oosten",
 			"discord": "NickEast"
 		}
